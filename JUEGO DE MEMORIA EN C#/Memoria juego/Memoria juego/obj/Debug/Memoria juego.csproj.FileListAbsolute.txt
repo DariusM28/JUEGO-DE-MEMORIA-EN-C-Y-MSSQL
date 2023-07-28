@@ -1,0 +1,12 @@
+C:\Users\Renato\Desktop\juegomemoriafinal\Memoria juego\Memoria juego\bin\Debug\Memoria juego.exe.config
+C:\Users\Renato\Desktop\juegomemoriafinal\Memoria juego\Memoria juego\bin\Debug\Memoria juego.exe
+C:\Users\Renato\Desktop\juegomemoriafinal\Memoria juego\Memoria juego\bin\Debug\Memoria juego.pdb
+C:\Users\Renato\Desktop\juegomemoriafinal\Memoria juego\Memoria juego\obj\Debug\Memoria juego.csproj.AssemblyReference.cache
+C:\Users\Renato\Desktop\juegomemoriafinal\Memoria juego\Memoria juego\obj\Debug\Memoria juego.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renato\Desktop\juegomemoriafinal\Memoria juego\Memoria juego\obj\Debug\Memoria_juego.Form1.resources
+C:\Users\Renato\Desktop\juegomemoriafinal\Memoria juego\Memoria juego\obj\Debug\Memoria_juego.Properties.Resources.resources
+C:\Users\Renato\Desktop\juegomemoriafinal\Memoria juego\Memoria juego\obj\Debug\Memoria juego.csproj.GenerateResource.cache
+C:\Users\Renato\Desktop\juegomemoriafinal\Memoria juego\Memoria juego\obj\Debug\Memoria juego.csproj.CoreCompileInputs.cache
+C:\Users\Renato\Desktop\juegomemoriafinal\Memoria juego\Memoria juego\obj\Debug\Memoria juego.exe
+C:\Users\Renato\Desktop\juegomemoriafinal\Memoria juego\Memoria juego\obj\Debug\Memoria juego.pdb
+C:\Users\Renato\Desktop\juegomemoriafinal\Memoria juego\Memoria juego\obj\Debug\Memoria_juego.PanelJuego.resources
